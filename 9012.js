@@ -41,4 +41,3 @@ for(let i = 0; i < arr.length; i++) {
 
 // MEMO:: ()) 인 순간부터 틀린거니까 break로 나옴 -> 수가 같지 않으니까 당연히 NO 해줌
 // MEMO:: stack 알아보기! 선입후출 먼저 들어온 게 나중에 나감 
-// MEMO:: if문에서도 break 가능 
