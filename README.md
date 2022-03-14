@@ -9,6 +9,9 @@
 - Node.js로 백준을 풀면서 자바스크립트를 익히고 프로그래밍 사고를 키웁니다. 
 - 점차 단계를 올려서 코딩테스트도 대비합니다. 
 
+### 문제 목록
+- [wiki](https://github.com/zeroto99/COTE/wiki/%EC%8A%A4%ED%84%B0%EB%94%94-%ED%9A%8C%EC%B0%A8%EB%B3%84-%EB%AC%B8%EC%A0%9C-%EB%AA%A9%EB%A1%9D)
+
 ### 참고 자료 
 - [백준](https://www.acmicpc.net/)
 - [solved.ac ](https://solved.ac/)
