@@ -7,6 +7,7 @@ const stdin = process.platform === 'linux'
 
 const [n, ...arr] = stdin.toString().trim().split('\n').map(x => +x);
 
+// 풀이
 const dp = [0, 1, 2, 4];
 
 for(let i = 4; i < 11; i++) {
