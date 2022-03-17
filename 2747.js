@@ -5,6 +5,7 @@ const stdin = process.platform === 'linux'
 // stdin을 정제(?)하는 과정
 const input = stdin.toString().trim();
 
+// 풀이
 const dp = [0, 1]
 
 for(let i = 2; i <= input; i++) {
@@ -13,5 +14,4 @@ for(let i = 2; i <= input; i++) {
 
 let result = dp[input];
 
-// 풀이 작성
 console.log(result);
